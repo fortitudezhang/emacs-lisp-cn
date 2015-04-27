@@ -38,6 +38,6 @@
 新的开始
 =========
 
-emacs-lisp-cn 的翻译将使用 org-mode ，并用 org-mode 转化为 texinfo 格式，
-另外 org-mode 还有 org-info.js 功能，可以生成和 info 一样操作 的 info 网页版。
+* emacs-lisp-cn 的翻译将使用 org-mode ，并用 org-mode 转化为 texinfo 格式。
+* (Why org-mode ? )org-mode 还有 org-info.js 功能，可以生成和具有和 info 一样操作的 info 网页版。
 
