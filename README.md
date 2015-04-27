@@ -34,3 +34,11 @@
 =========
 
 * texi2pdf不支持包含中文的texi文件，因此暂无法生成中文pdf，测试发现生成pdf中，中文全部消失不见。
+
+新的开始
+=========
+
+* emacs-lisp-cn 的翻译将使用 org-mode ，并用 org-mode 导出为 texinfo 格式。
+* (Why org-mode ? ) org-mode 可以正常导出为 pdf 、 html 以及 markdown 等等。
+* org-mode 还有 org-info.js 功能，可以生成和具有和 info 一样操作的 info 网页版。
+
